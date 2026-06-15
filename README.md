@@ -50,7 +50,7 @@ Add screenshots of your calculator here.
 
 Example:
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calculator/screenshot.png)
 
 ## Future Improvements
 
