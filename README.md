@@ -37,7 +37,7 @@ calculator/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/malarmozhi-710/web_technology_calculator.git
+git clone https://github.com/malarmozhi-710/codealpha_task_calculator.git
 ```
 
 2. Open the project folder.
